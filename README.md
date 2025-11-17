@@ -22,6 +22,7 @@
 
 ### 🔧 机器学习项目
 
+- [基于正则化方法的乳腺癌患者生存分析](/Survival-Analysis-of-Breast-Cancer-Patients-Based-on-Regularization-Method)
 - [基于高维基因数据的急性白血病分类](/Leukemia-Prediction-Based-on-Gene-Expression)
 - [基于机器学习的鸢尾花种类预测](/Iris-Classification)
 - [基于机器学习的葡萄酒种类预测](/Wine-Classification)
