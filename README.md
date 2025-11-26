@@ -28,7 +28,9 @@
 - [基于机器学习的葡萄酒种类预测](/Wine-Classification)
 
 
+### 🔎深度学习项目
 
+- [基于ResNet的坑洼道路识别预测](/Pothole-Recognition-Based-on-ResNet)
 
 
 
