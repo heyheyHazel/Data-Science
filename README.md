@@ -5,11 +5,7 @@
 
 ## 🎯 项目简介
 
-一部分做过的数据科学项目，可能涵盖机器学习、深度学习等方法，涉及金融、能源、生物统计等领域。
-
-持续更新中...
-
-
+一部分做过的数据科学项目，涉及金融、能源、生物统计等领域。
 
 ## 🛠️ 技术栈
 
@@ -47,4 +43,4 @@ cd Data-Science
 # 创建虚拟环境并安装基础的包(conda)
 conda create -n pytorch_env python=3.9 -y
 conda activate pytorch_env
-conda install pytorch pandas numpy matplotlib ipykernel  -y
+conda install pytorch pandas numpy matplotlib ipykernel -y
